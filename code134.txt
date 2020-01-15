@@ -1,0 +1,4 @@
+sudo apt-get install lxde-core
+sudo apt-get install lxde
+sudo apt-get install task-lxde-desktop
+
